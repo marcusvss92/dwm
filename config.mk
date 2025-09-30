@@ -20,7 +20,7 @@ FREETYPEINC = /usr/include/freetype2
 # OpenBSD (uncomment)
 #FREETYPEINC = ${X11INC}/freetype2
 #MANPREFIX = ${PREFIX}/man
-+#KVMLIB = -lkvm
+#KVMLIB = -lkvm
 
 # includes and libs
 INCS = -I${X11INC} -I${FREETYPEINC}
