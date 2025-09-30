@@ -4,5 +4,10 @@ config.h
 drw.o
 dwm
 dwm.o
+<<<<<<< HEAD
 dwm.png
 util.o
+=======
+util.o
+dwm.png
+>>>>>>> a0c3193 (Patch 2 - Swallow: Adds window swallowing to DWM)
