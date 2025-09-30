@@ -6,3 +6,7 @@ dwm
 dwm.o
 dwm.png
 util.o
+<<<<<<< HEAD
+=======
+dwm.png
+>>>>>>> 722bf50 (Patch 2 - Swallow: Adds window swallowing to DWM)
