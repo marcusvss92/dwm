@@ -1,3 +1,5 @@
+config.def.h*
+config.mk*
 config.h
 drw.o
 dwm
