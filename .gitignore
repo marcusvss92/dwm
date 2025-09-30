@@ -1,11 +1,8 @@
+config.def.h*
+config.mk*
 config.h
 drw.o
 dwm
 dwm.o
-<<<<<<< HEAD
 util.o
 dwm.png
-=======
-dwm.png
-util.o
->>>>>>> testing
