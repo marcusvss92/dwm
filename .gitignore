@@ -1,11 +1,9 @@
 config.def.h.orig
-config.def.h.rej
 config.h
 config.mk.orig
 drw.o
 dwm
 dwm.1.rej
-dwm.c.rej
 dwm.c.orig
 dwm.o
 dwm.png
