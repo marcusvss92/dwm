@@ -141,7 +141,7 @@ static const Key keys[] = {
 	{ MODKEY,                       XK_Right,		   focusmon,       {.i = +1 } },
 	{ MODKEY|ShiftMask,             XK_Left,		   tagmon,         {.i = -1 } },
 	{ MODKEY|ShiftMask,             XK_Right,		   tagmon,         {.i = +1 } },
-    { MODKEY|ShiftMask,             XK_apostrophe,     swapmon,   	   {0} },
+    { MODKEY,             			XK_backslash,      swapmon,   	   {0} },
 	TAGKEYS(                        XK_1,							   0)
 	TAGKEYS(                        XK_2,							   1)
 	TAGKEYS(                        XK_3,							   2)
